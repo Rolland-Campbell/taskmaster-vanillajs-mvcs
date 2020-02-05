@@ -1,0 +1,17 @@
+body {
+  min-height: 100vh;
+}
+
+header {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+}
+
+main{
+  height: 80vh;
+}
+
+footer {
+  height: 10vh;
+}
